@@ -1,0 +1,16 @@
+streamlit>=1.49.0
+numpy>=1.26.0
+onnxruntime>=1.17.0
+tokenizers>=0.15.0
+openai>=1.40.0
+folium>=0.15.0
+streamlit-folium>=0.20.0
+geopy>=2.4.0
+python-docx>=1.1.0
+pandas>=2.0.0
+requests>=2.31.0
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+
+# Optional, local only (query embeddings run on onnxruntime, no torch needed)
+# sentence-transformers
