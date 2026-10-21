@@ -71,6 +71,12 @@ https://lonely-planet-travel-app-xxxx.streamlit.app
 ### 2.3 Share Your App
 Send this URL to anyone! They can use it in their browser without installing anything.
 
+**Live URL of this project:**
+```
+https://yourloved-lonelyplanet-travelguide.streamlit.app
+```
+(custom subdomain set in app Settings → General → App URL)
+
 ---
 
 ## Step 3: Important Notes for Full Functionality

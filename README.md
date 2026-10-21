@@ -5,6 +5,8 @@ Semantic search over Lonely Planet guidebooks, plus an AI travel-plan builder
 
 **Group 7:** Casey · Jasper · Maxine · Paew
 
+**Live app:** <https://yourloved-lonelyplanet-travelguide.streamlit.app>
+
 ---
 
 ## What it does

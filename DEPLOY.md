@@ -7,6 +7,10 @@ The repository is already prepared for both: no secrets are committed, assets ar
 web-optimised (≈133 MB total), and query embeddings run on `onnxruntime` (no
 `torch`, so the build stays inside Streamlit Cloud's dependency budget).
 
+> **Live app:** <https://yourloved-lonelyplanet-travelguide.streamlit.app>
+> (public, custom subdomain; the default URL before the rename was
+> `caseyxu2021-…-810f7s.streamlit.app`)
+
 ---
 
 ## 1. Streamlit Community Cloud (recommended)
